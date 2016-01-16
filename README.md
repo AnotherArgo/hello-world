@@ -1,2 +1,2 @@
 # hello-world
-a repository to leanr
+a repository to learn
